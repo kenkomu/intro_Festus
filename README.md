@@ -7,4 +7,4 @@ Check the branches : git branch
 Pushing in github process:
 1. git add README.md
 2. git commit -m "changed the readme.md"
-3. git push
+3. git push --set-upstream origin Festus
